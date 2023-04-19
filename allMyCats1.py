@@ -1,0 +1,15 @@
+print('Укажите имя
+catNamel = input()
+print('Укажите имя кота или кошки 1:')
+catName2 = input()
+print('Укажите имя кота или кошки 1:')
+catName3 = input()
+print('Укажите имя кота или кошки 1:')
+catName4 = input()
+print('Укажите имя кота или кошки 1:')
+catName5 = input()
+print('Укажите имя кота или кошки 1:')
+catName6 = input()
+print('Имена котов и кошек:')
+
+print(catNamel + ' ' + catName4 + ' ' + catName2 + ' ' + catName5 + ' ' + catName3 + ' ' + catName6)
